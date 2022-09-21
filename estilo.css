@@ -76,6 +76,14 @@ form textarea {
     clear: both;
 }
 
+form button {
+    background-color: #8C52FF;
+    margin-top: 30px;
+    border:0;
+    color: white;
+    padding: 10px 15px;
+}
+
 /* fotos */
 
 .fotosobre, .fotosobre2 {
@@ -102,5 +110,5 @@ margin-top:10px;}
     margin-left:auto;
     margin-right:auto;
     max-width: 100px;
-    align: center;
+   margin-top: 15%;
 }
