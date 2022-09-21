@@ -3,7 +3,7 @@
 body {
     background-color: #E0D0FF;
     color:  white;
-    font: bold 15px 'Calibri', serif;
+    font: 15px 'Abril Fatface', serif;
     line-height: 30px;
 }
 
@@ -97,4 +97,10 @@ margin-top:10px;}
     width:auto;
     height:auto;
     max-width:250px;
+}
+#icon {
+    margin-left:auto;
+    margin-right:auto;
+    max-width: 100px;
+    align: center;
 }
