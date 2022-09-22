@@ -13,14 +13,18 @@ Requisitos:
 
     O projeto desenvolvido deve ser fornecido em repositório no GitHub.
 
+
 Design/Planejamento:
+
     - Escolhi por um design que intitulei de "fofo-tech".
     - Usei dois tons de roxo para o design, e branco para as fontes e texto.
     - Criei uma logo que achei colorida e divertida, que eu acho que combinou com a estética que eu queria criar.
     - Usei fotos de infância na página sobre para retratar que eu estou no início de uma nova jornada, voltando a aprender a aprender.
     - Deixei o site limpo, sem muitos elementos e centralizado, para destacar o conteúdo.
 
+
 Desenvolvimento:
+
     - O projeto foi desenvolvido em HTML/CSS
     - Dividi em 4 páginas, uma para cada assunto (sobre mim, hobbies e contato) + uma página home.
     - Coloquei um menu no topo do site para o usuário navagar entre as páginas.
