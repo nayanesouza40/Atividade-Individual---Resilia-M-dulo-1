@@ -1,6 +1,6 @@
 Este projeto foi feito para o curso de Desenvolvimento Web Full-Stack da Resilia Educação.
 
-Desenvolvedora: Nayane Cristina de Souza
+Desenvolvedora: Nayane Cristina de Souza.<br>
 Proposta: Criar uma página de apresentação individual.
 
 Requisitos:
