@@ -27,10 +27,8 @@ Desenvolvimento:
     - Coloquei uma logo, com o meu nome, e um ícone, emoji na página inicial, ambos em png. 
     - Adicionei um formulário de contato com os principais campos utilizados.
 
-Dificuldade:
-
+Dificuldades:
     - Gostaria de ter adicionado uma fonte diferente, uma serifada, mas, as opções de fontes que testei prejudicaram a legibilidade (acho que por causa das cores + serifa).
-
     - Tive dificuldade em conectar meu repositório local do Git com o repositório remoto do GitHub. Fiz todas as commits do projeto atráves do GitHub.
 
     - A logo e o ícone foram salvos em png, com o fundo transparente. O recorte não foi feito de forma precisa por falta de conhecimento técnico em ferramentas de design.
