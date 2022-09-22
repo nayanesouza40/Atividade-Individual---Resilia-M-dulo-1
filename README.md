@@ -32,6 +32,7 @@ Desenvolvimento:
     - Adicionei um formulário de contato com os principais campos utilizados.
 
 Dificuldades:
+    
     - Gostaria de ter adicionado uma fonte diferente, uma serifada, mas, as opções de fontes que testei prejudicaram a legibilidade (acho que por causa das cores + serifa).
     - Tive dificuldade em conectar meu repositório local do Git com o repositório remoto do GitHub. Fiz todas as commits do projeto atráves do GitHub.
 
