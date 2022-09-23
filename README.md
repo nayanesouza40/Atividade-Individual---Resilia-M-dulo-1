@@ -3,7 +3,7 @@ Este projeto foi feito para o curso de Desenvolvimento Web Full-Stack da Resilia
 Desenvolvedora: Nayane Cristina de Souza.<br>
 Proposta: Criar uma página de apresentação individual.
 
-Confira o projeto aqui: https://nayanesouza40.github.io/Atividade-Individual-Resilia-M01/contato.html
+Confira o projeto aqui: https://nayanesouza40.github.io/Atividade-Individual-Resilia-M01
 
 Requisitos:
     "O projeto deve usar uma estrutura de pastas separadas para os arquivos CSS e para as imagens". Os arquivos HTML podem ficar na raiz do projeto.
